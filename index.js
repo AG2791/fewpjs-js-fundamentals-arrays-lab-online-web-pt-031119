@@ -10,5 +10,7 @@ prepend.unshift("Odie")
 
 removeLast.pop(-1)
 
+removeFirst.shift
+
 
 
